@@ -13,10 +13,12 @@ h1{
 
 #texto1{
     color: rgb(19, 19, 154);
+    background-color: #FF6C22;
 
 }
 #texto2{
     color: rgb(34, 139, 34);
+    background-color: #FF9209;
 
 }
 #texto3{
@@ -27,5 +29,7 @@ h1{
     font-size: 35;
     font-style: italic;
 }
-
+#listas{
+    background-color: #FFD099;
+}
 
