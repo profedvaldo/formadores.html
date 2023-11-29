@@ -37,6 +37,15 @@ header{
     background-color: cadetblue;
     border-bottom: black;
     color: whitesmoke;
-    font-size: 32px;
-    
+    font-size: 32px;    
+}
+#menu{
+    font-size: 15px;
+    color: red;
+}
+a:hover{
+    color:aquamarine;
+}
+a:active{
+    color: whitesmoke;
 }
