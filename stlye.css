@@ -32,4 +32,11 @@ h1{
 #listas{
     background-color: #FFD099;
 }
-
+header{
+    padding:20px;
+    background-color: cadetblue;
+    border-bottom: black;
+    color: whitesmoke;
+    font-size: 32px;
+    
+}
