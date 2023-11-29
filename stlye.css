@@ -49,3 +49,9 @@ a:hover{
 a:active{
     color: whitesmoke;
 }
+a:visited{
+    color: red;
+}
+a{
+    color: red;
+}
